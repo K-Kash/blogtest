@@ -1,6 +1,6 @@
 module.exports = {
   title: '　Kash-Kiku',
-  base: '/Kash-Kiku/',
+  base: '/blogtest/',
   description: 'Blog example for Mediumish theme with VuePress',
   logo: './assets/img/logo.png',
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
